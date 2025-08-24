@@ -1,4 +1,4 @@
-# NovaCore: Closed-Loop Life-Support Simulator## 
+# NovaCore: Closed-Loop Life-Support Simulator 
 
 # Live Demo
 Try it here: [NovaCore Simulator](https://novacore-ktgnnohb9bpknoy6zanss7.streamlit.app/)
