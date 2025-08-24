@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# streamlit_app.py — interactive UI for the NovaCore loop
+# streamlit_app.py - interactive UI for the NovaCore loop
 
 import io
 import numpy as np
@@ -89,7 +89,7 @@ col2.metric("Final O₂ (mol)",  f"{o2[-1]:.3f}")
 col3.metric("Final Temp (°C)", f"{temp[-1]:.2f}")
 col4.metric("Final Humidity",  f"{hum[-1]:.3f}")
 
-# Optional telemetry export
+# Telemetry export
 if show_csv:
     df = pd.DataFrame({
         "time_s": t,
