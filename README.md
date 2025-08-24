@@ -1,4 +1,8 @@
-# NovaCore: Closed-Loop Life-Support Simulator
+# NovaCore: Closed-Loop Life-Support Simulator## 
+
+# Live Demo
+Try it here: [NovaCore Simulator](https://novacore.streamlit.app)
+
 
 A **mini-MVP simulator** for orbital habitat life-support systems.  
 Models **CO₂ scrubbing, O₂ regeneration, temperature, and humidity control** in a closed-loop environment.  
