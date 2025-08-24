@@ -17,9 +17,7 @@ Built in **Python + Streamlit** for interactivity, visualization, and telemetry 
 
 ---
 
-## 📊 Example Output
-![screenshot](screenshot.png)  
-*(Replace with an actual screenshot from your app)*
+
 
 ---
 
@@ -27,5 +25,5 @@ Built in **Python + Streamlit** for interactivity, visualization, and telemetry 
 
 Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/NovaCore-simulator.git
+git clone https://github.com/<adityaup19>/NovaCore-simulator.git
 cd NovaCore-simulator
