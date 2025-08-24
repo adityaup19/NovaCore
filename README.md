@@ -7,13 +7,13 @@ Built in **Python + Streamlit** for interactivity, visualization, and telemetry 
 ---
 
 ## 🚀 Features
-- **CO₂ Production & Scrubbing** — simulate astronaut metabolic CO₂ production and scrubbing efficiency.  
-- **O₂ Regeneration** — configurable O₂ yield from scrubbed CO₂ (plants, algae, electrolysis).  
-- **Temperature Regulation** — balance heat gain vs. radiator cooling.  
-- **Humidity Control** — model humidity from respiration vs. condenser removal.  
-- **Interactive Web UI** — adjust sliders in real time, see plots update instantly.  
-- **CSV Telemetry Export** — download simulation results for further analysis.  
-- **Log Scale Option** — toggle logarithmic scale to reveal tiny CO₂ dynamics alongside O₂ growth.
+- **CO₂ Production & Scrubbing** - simulate astronaut metabolic CO₂ production and scrubbing efficiency.  
+- **O₂ Regeneration** - configurable O₂ yield from scrubbed CO₂ (plants, algae, electrolysis).  
+- **Temperature Regulation** - balance heat gain vs. radiator cooling.  
+- **Humidity Control** - model humidity from respiration vs. condenser removal.  
+- **Interactive Web UI** - adjust sliders in real time, see plots update instantly.  
+- **CSV Telemetry Export** - download simulation results for further analysis.  
+- **Log Scale Option** - toggle logarithmic scale to reveal tiny CO₂ dynamics alongside O₂ growth.
 
 ---
 
