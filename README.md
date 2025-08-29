@@ -31,3 +31,12 @@ Clone the repo:
 ```bash
 git clone https://github.com/<adityaup19>/NovaCore-simulator.git
 cd NovaCore-simulator
+
+
+## License & Usage
+
+This project is the intellectual property of Aditya Upadhyay.  
+All rights reserved. Please do not copy, redistribute, or reuse any part of this work without explicit permission.  
+
+For inquiries or collaboration requests, contact: [your.email@example.com]
+
