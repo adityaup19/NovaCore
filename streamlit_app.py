@@ -104,3 +104,10 @@ if show_csv:
     df.to_csv(buf, index=False)
     st.download_button("⬇️ Export telemetry CSV", data=buf.getvalue(),
                        file_name="telemetry.csv", mime="text/csv")
+
+
+# Copyright (c) 2025 Aditya Upadhyay
+# All rights reserved.
+# This code is part of the NovaCore life-support simulator project.
+# Do not reproduce, modify, or distribute without permission.
+
