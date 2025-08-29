@@ -51,3 +51,9 @@ def simulate_loop(
 
     return t, co2, o2, temp, hum
 
+# Copyright (c) 2025 Aditya Upadhyay
+# All rights reserved.
+# This code is part of the NovaCore life-support simulator project.
+# Do not reproduce, modify, or distribute without permission.
+
+
